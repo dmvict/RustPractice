@@ -1,4 +1,4 @@
-# RustPractice
+# Rust Practice
 
 Репозиторія містить семпли до заходу по Rust ( 21 серпня 2021р ).
 
@@ -78,7 +78,7 @@
 
 Як працює цикл for у Rust. Використання ренжів у циклі for.
 
-## Посилання
+[10. Як позначити символ, використання булевих значень.](https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2895412d199c6937e82f9ea3977b2ed9)
 
 - [Список ресурсів по Rust](https://github.com/Wandalen/LearnRustTogether)
 - [Список чатів і форумів по Rust](https://github.com/Learn-Together-Pro/RustCommunity)
