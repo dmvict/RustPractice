@@ -6,7 +6,7 @@ fn main() {
     println!( "signed is : {}", signed );
     // print : signed is : -2
 
-    // unsugned untegers : u8, u16, u32, u64, u128, usuze
+    // unsugned untegers : u8, u16, u32, u64, u128, usize
     let unsigned: u64 = 2;
     println!( "unsigned is : {}", unsigned );
     // print : unsugned is : 2
