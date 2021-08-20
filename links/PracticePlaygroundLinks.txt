@@ -1,47 +1,53 @@
 1_HelloWorld.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=743299839e41109049760f90ef6ce1a2
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=c8c96b7284b5c7093dcc081c36effe8c
 
-2_HelloWorldOrdered.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e576155cc2cb77335951e4de452adda9
+2_HelloWorldWithVars.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=35fee26bc4c4339967bf8402fd9164c9
 
-3_HelloWorldDebug.rs
+3_HelloWorldWithNamedTokens.rs
 https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=02b134c834998e5bb9ea3ac7bf91f5a4
 
-4_MutabilityUnmutable.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=514e7cff14cef89579037b65e197b3d1
+4_HelloWorldOrdered.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=247fe1fae2180265e89587ef9dbba956
 
-5_MutabilityMutable.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=83a3b5f1f4cb38b8da7c71ec0bf3651d
+5_HelloWorldDebug.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9deff204359eb57f331ffa93e156583f
 
-6_ShadowVariables.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ab718af02c70fcd2d64c6faf0b4e8f90
+6_Mutability.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ab0bf56c2bb3cc9e1e2a46d6b87227c5
 
-7_Const.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d2c597e824a4e71ee7a75980e7a48689
+7_ShadowVariables.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=808a31330f73993d377285f63d529edc
 
-8_Types.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=15e4d066d6c3734d9eb52415122fe5e5
+8_Const.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=e69732e80c0443af19087e76823605ff
 
-9_Strings.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ecc1c0a517ba91d8ca529a85ec3340d9
+9_NumberTypes.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=4ec1a6f16142167c743bafde2f83d963
 
-10_Typles.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=877635162c15814c347a7d04903b3356
+10_CharsAndBooleans.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=2895412d199c6937e82f9ea3977b2ed9
 
-11_Arrays.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=71590245015eee920becf584111b0edb
+11_Strings.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=850cff4931968e283b5742f03b95acd3
 
-12_Functions.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f3e3f05ae635db9a038b7b197e9d16f9
+12_Typles.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=640c143d023bf57abb8158266c1ec942
 
-13_ExpressionAndStatement.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=ce0bdf3b6547061457dcdf90739dda6d
+13_Arrays.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=d057fd06a004ae08053c0014324fe1f2
 
-14_Statement.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=57acf486f01a3c6b6236ca19427a5aed
+14_Functions.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=999cc16d6f8a256a50278c24fcc4e4d0
 
-15_LoopAndWhile.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=a8b3a8a5940f6b9b7aca30a402eb60f6
+15_ExpressionAndStatement.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=9447c47f954b968e07cf95de1883b36d
 
-16_ForLoop.rs
-https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=61511c18fae77c5c9907646f81264a4a
+16_Statement.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=f305c28956b4a793e30b944f4f646210
+
+17_LoopAndWhile.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=151370fba783e4fb8a0185a55c1aef95
+
+18_ForLoop.rs
+https://play.rust-lang.org/?version=stable&mode=debug&edition=2018&gist=b2e0411631e22838145ba0e2a05ce877
