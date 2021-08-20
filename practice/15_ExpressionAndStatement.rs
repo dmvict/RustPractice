@@ -15,5 +15,6 @@ fn main() {
     };
 
     println!( "a : {}, b : {}, c : {}, d : {}", a, b, c, d );
+    // print : a : 7, b : 7, c : 7, d : 7
 }
 

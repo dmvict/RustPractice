@@ -12,8 +12,11 @@ fn main() {
             continue
         }
         println!( "counter is : {}", counter );
+        // print : counter is : 4
+        //         counter is : 2
     };
     println!( "result is : {}", result );
+    // print : result is : 10
 
     /* */
 
@@ -21,6 +24,11 @@ fn main() {
 
     while counter != 0 {
         println!( "counter is : {}", counter );
+        // print : counter is : 5
+        //         counter is : 4
+        //         counter is : 3
+        //         counter is : 2
+        //         counter is : 1
         counter -= 1;
     }
 }
